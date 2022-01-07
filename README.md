@@ -8,6 +8,7 @@ Vless & Vmess:
 
 [![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy)
 
+https://dashboard.heroku.com/new?template=https://github.com/yeahwu/kinto
 **Risk of account blocking for abuse!**
 
 **Risk of account blocking for abuse!**
